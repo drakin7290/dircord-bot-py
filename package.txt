@@ -1,0 +1,4 @@
+PyNaCl
+discord
+nextcord
+nextcord[voice]
