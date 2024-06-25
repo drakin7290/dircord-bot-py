@@ -16,7 +16,6 @@ if __name__ == '__main__':
     for extension in initial_extensions:
         bot.load_extension(extension)
     
-bot.run("MTI1NDY2MzY2MDYwMTczNzIyOA.GV1_gZ.ePxtTIGunTFgax4j5bSMgjFeDEe-GWCM8u1Mds")
 
 
 
