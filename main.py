@@ -15,8 +15,3 @@ for filename in os.listdir('./cogs'):
 if __name__ == '__main__':
     for extension in initial_extensions:
         bot.load_extension(extension)
-    
-
-
-
-
